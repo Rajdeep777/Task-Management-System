@@ -1,7 +1,7 @@
 # Task Management System
 
 A MERN application for basic tasks management.
-![image]()
+![image](https://github.com/Rajdeep777/Task-Management-System/assets/74129008/437db6fe-65fd-4e55-b08b-57b9adf21925)
 
 ## Table of Contents
 
